@@ -1,1 +1,1 @@
-# Learn yoursef a Haskell for great good
+# Learn yourself a Haskell for great good
